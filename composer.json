@@ -41,10 +41,10 @@
             "type": "package",
             "package": {
                 "name": "drupal/drupal",
-                "version": "7.34",
+                "version": "7.57",
                 "dist": {
                     "type": "zip",
-                    "url": "http://ftp.drupal.org/files/projects/drupal-7.34.zip"
+                    "url": "http://ftp.drupal.org/files/projects/drupal-7.57.zip"
                 }
             }
         }
